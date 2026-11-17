@@ -21,7 +21,7 @@ from calculs import (
 # =============================================================================
 # À PERSONNALISER : tout ce qui est affiché sur ta page est ici
 # =============================================================================
-PRENOM_NOM = "Ton Prénom Nom"
+PRENOM_NOM = "Cyprien Lepied"
 ACCROCHE = "Étudiant en 1re année de BUT Techniques de Commercialisation, passionné d'automobile"
 ECOLE = "IUT de Rambouillet (Vélizy-Rambouillet)"
 STAGE_PERIODE = "du 11 janvier au 5 février 2027"
@@ -29,9 +29,9 @@ SECTEUR = "Commerce et vente automobile"
 LIEU = "Rambouillet et environs"
 
 # Laisse "" pour masquer un bouton
-LINKEDIN = "https://www.linkedin.com/in/ton-profil"
-GITHUB = "https://github.com/ton-pseudo/ton-depot"
-EMAIL = "ton.email@exemple.fr"
+LINKEDIN = "www.linkedin.com/in/cyprien-lepied-051102356"
+GITHUB = "https://github.com/lepiedcyprien-cell/portfolio-stage"
+EMAIL = "lepiedcyprien@gmail.com"
 CV_URL = ""  # lien vers ton CV en PDF (Drive, GitHub...), optionnel
 
 COMPETENCES = {
