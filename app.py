@@ -43,7 +43,7 @@ COMPETENCES = {
 PROJETS = [
     ("Benchmark concurrentiel", "Étude comparative de marques concurrentes d'un même marché (SAÉ Communication commerciale)."),
     ("Analyse d'une campagne de communication", "Annonceur, agence, objectifs, cibles, médias et hors-médias, message, budget."),
-    ("Recherche de stage structurée", "Ciblage, CV et lettre de motivation, prise de contact, relances et suivi."),
+    ("Démarche de recherche de stage", "Ciblage d’entreprises, candidatures (CV, lettre de motivation) et suivi dans un tableau (SAÉ Vente)."),
     ("Ce site", "Appli web en Python : interface Streamlit, calculs testés avec pytest, déployée en ligne."),
 ]
 # =============================================================================
